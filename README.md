@@ -1,5 +1,5 @@
 # Project Setup Instructions
-
+deployed-Link https://fatmug.onrender.com
 Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository:**
@@ -48,7 +48,7 @@ Follow these steps to set up and run the project locally:
    - Depending on your project requirement
 
 
-# Vendor APIs
+# Vendor APIs  - "api/" subroute for other functional routes.
 
 ## Vendor List/Create
 - **URL:** `/api/vendors/`
